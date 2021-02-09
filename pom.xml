@@ -51,7 +51,7 @@ limitations under the License.
     <checkstyle.tool.version>6.19</checkstyle.tool.version>
     <elasticsearch.version>0.90.1</elasticsearch.version>
     <hadoop2.version>2.4.0</hadoop2.version>
-    <thrift.version>0.7.0</thrift.version>
+    <thrift.version>0.12.0</thrift.version>
     <kafka.version>0.9.0.1</kafka.version>
     <kite.version>1.0.0</kite.version>
     <hive.version>1.0.0</hive.version>
