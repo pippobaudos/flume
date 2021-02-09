@@ -48,7 +48,7 @@ limitations under the License.
 
     <avro.version>1.7.4</avro.version>
     <checkstyle.plugin.version>2.17</checkstyle.plugin.version>
-    <checkstyle.tool.version>6.19</checkstyle.tool.version>
+    <checkstyle.tool.version>8.29</checkstyle.tool.version>
     <elasticsearch.version>0.90.1</elasticsearch.version>
     <hadoop2.version>2.4.0</hadoop2.version>
     <thrift.version>0.7.0</thrift.version>
